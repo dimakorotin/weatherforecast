@@ -1,0 +1,8 @@
+{
+  "name": "weather_forecast",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.26.1"
+  }
+}
